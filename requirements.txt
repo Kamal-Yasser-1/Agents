@@ -1,0 +1,25 @@
+# Web API
+fastapi
+uvicorn
+python-multipart
+
+# Environment & Data Parsing
+python-dotenv
+pydantic
+requests
+
+# Azure Integrations
+azure-cosmos
+
+# AI & Orchestration (LangChain / LangGraph)
+langchain-core
+langchain-google-genai
+langgraph
+
+# String Matching (for user/course resolution)
+thefuzz
+python-Levenshtein
+
+# Audio Transcription (Voice Endpoint)
+openai
+openai-whisper
